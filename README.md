@@ -6,7 +6,9 @@
 
 ##
 
-<img align="center" alt="" height="200px" src="https://media1.tenor.com/m/JNrPF3XuHXIAAAAd/java-duke.gif">
+<div align="center">
+  <img alt="" height="200px" src="https://media1.tenor.com/m/JNrPF3XuHXIAAAAd/java-duke.gif">
+</div>
 
 ##
 
