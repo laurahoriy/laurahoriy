@@ -6,6 +6,10 @@
 
 ##
 
+<img align="center" alt="" height="200px" src="https://media1.tenor.com/m/JNrPF3XuHXIAAAAd/java-duke.gif">
+
+##
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laurahoriy/laurahoriy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laurahoriy/laurahoriy/output/github-contribution-grid-snake-dark.svg">
