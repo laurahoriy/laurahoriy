@@ -12,6 +12,19 @@
 
 ##
 
+<div style="text-align: center;" align="center">
+  <h3>◊ GitHub Stats ◊</h3>
+  <br>
+  
+  <div style="display: flex; justify-content: center; gap: 30px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=laurahoriy&show_icons=true&theme=midnight-purple" style="height: 160px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurahoriy&layout=compact&theme=midnight-purple" style="height: 160px;" />
+  </div>
+
+</div>
+
+##
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laurahoriy/laurahoriy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laurahoriy/laurahoriy/output/github-contribution-grid-snake-dark.svg">
